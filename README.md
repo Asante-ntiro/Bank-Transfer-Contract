@@ -1,2 +1,2 @@
 # Bank-Transfer-Contract
-A dynamic smart contract that allows users to transfer ETH written in Solidity 
+A dynamic smart contract that allows users to make transfers written in Solidity 
